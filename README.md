@@ -1,5 +1,8 @@
-# Pi Calculation Project
+# Quantum Pi Project
 
+Calculate pi using a quantum computer
+
+## Motivation
 The motiviaton of this project is to show several ways in which pi can be obtained via a quantum computer. However, the underlying algorithms do not need to be quantum in nature the algorithms must include at least one significant quantum component. For this project I will show three ways of calculating by though there are many more and the process that I use to in each section may be suboptimal. 
 
 The three versions are as follows: 
